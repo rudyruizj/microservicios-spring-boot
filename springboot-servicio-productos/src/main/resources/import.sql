@@ -1,0 +1,10 @@
+insert into productos(nombre,precio,create_at) values ('Panasonic','800',NOW());
+insert into productos(nombre,precio,create_at) values ('Sony','110',NOW());
+insert into productos(nombre,precio,create_at) values ('Akita','150',NOW());
+insert into productos(nombre,precio,create_at) values ('Apple','140',NOW());
+insert into productos(nombre,precio,create_at) values ('Samsung','100',NOW());
+insert into productos(nombre,precio,create_at) values ('Adidas','200',NOW());
+insert into productos(nombre,precio,create_at) values ('Reebok','300',NOW());
+insert into productos(nombre,precio,create_at) values ('Hewlett','400',NOW());
+insert into productos(nombre,precio,create_at) values ('Sara','500',NOW());
+insert into productos(nombre,precio,create_at) values ('Candy crush','700',NOW());
